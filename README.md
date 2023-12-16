@@ -1,4 +1,4 @@
-# QR Code Component Challenge
+# QR Code Component
 
 ## Overview
 
@@ -49,7 +49,7 @@ The designs are created for two widths:
 
 ## Project Progress
 
-- [Link to Live Project](#) [Add your project link here once deployed]
+- [Link to Live Project](#) 
 
 ## Feedback
 
